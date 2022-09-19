@@ -900,7 +900,7 @@ const calcular7 = () => {
   if (velocidad1) {
     
     // CALCULAR
-    velocidad2 = (velocidad1 * 3) / 50;
+    velocidad2 = (velocidad1 * 18) / 5;
 
     // INNER HTML
     document.getElementById('resultado').innerHTML = `
